@@ -1,1 +1,1 @@
-# Exemplo-Padrao-MVC
+# Exemplo simples do padrão arquitetural MVC
